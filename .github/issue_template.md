@@ -1,8 +1,3 @@
----
-name: test1
-about: uuuuu
----
-
 **要望**
 
 - xxx
